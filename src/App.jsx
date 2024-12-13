@@ -1,4 +1,4 @@
-import yadmamImage from "./assets/yadmam.jpg";
+import yadmamImage from "./assets/Myself.jpeg";
 
 function App() {
   return (
